@@ -1,8 +1,3 @@
-
-Ivan Oswaldo Coronado Lopez <ivancoronadol@colegiomonclair.edu.mx>
-Mon, Feb 26, 2018, 12:56 PM
-to me
-
 <DOCTYPE html>
 <html>
 <head>
@@ -10,27 +5,4 @@ to me
 </head>
 <body>
 <h1><FONT FACE="raro, courier" SIZE=14 COLOR="#00BFFF"><center>Tarea 1°</center></font></h1>
-<center><button type = "button" onclick = "MyFunction()">Muestra el nombre de mis compañeros</button></center>
-<h2></h2>
-<center><IMG SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn74TL9O-PVZcQb4DOXi-rHqdQLc2BkciEytlfzJVYw_mFoVcLbg"></IMG></center>
-<p id="demo1"></p>
-<p id="demo2"></p>
-<p id="demo3"></p>
-<p id="demo4"></p>
-<p id="demo5"></p>
-<script>
-function myFunction(){
-document.getElementById("demo1")
-.innerHTML="Sofia"
-document.getElementById("demo2")
-.innerHTML="Sergio";
-document.getElementById("demo3")
-.innerHTML="Fer";
-document.getElementById("demo4")
-.innerHTML="Deya";
-document.getElementById("demo5")
-.innerHTML="Barbara";
-}
-</script>
-</body>
-</html>
+
